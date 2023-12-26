@@ -1,4 +1,12 @@
-`Profile creation in progress: [=========>     ] 66.3%`
+```go
+func main() {
+  for {
+    fmt.Println("Profile creation in progress...")
+  }
+
+  fmt.Println("In the meantime, checkout my favorite repositories below.") // unreachable code detected
+}
+```
 
 <!--
 **criticalsession/CriticalSession** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
