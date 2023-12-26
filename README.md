@@ -1,4 +1,4 @@
-### Profile creation in progress: [=========>     ] 66.3%
+`Profile creation in progress: [=========>     ] 66.3%`
 
 <!--
 **criticalsession/CriticalSession** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
