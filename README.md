@@ -1,3 +1,5 @@
+<p align="Center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=criticalsession&show_icons=true&locale=en&layout=compact" alt="criticalsession" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=criticalsession&" alt="criticalsession" /></p>
+
 ```go
 func main() {
   for {
