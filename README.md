@@ -1,26 +1,21 @@
-<p align="Center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=criticalsession&show_icons=true&locale=en&layout=compact&theme=dark" alt="criticalsession" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=criticalsession&theme=dark" alt="criticalsession" /></p>
+<p align="Center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=criticalsession&theme=dark" alt="criticalsession" /></p>
 
-```go
-func main() {
-  for {
-    fmt.Println("Profile creation in progress...")
-  }
+# CriticalSession
 
-  fmt.Println("In the meantime, checkout my favorite repositories below.") // unreachable code detected
-}
-```
+## Software Engineer since 2008 🚀
 
-<!--
-**criticalsession/CriticalSession** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yes, I'm designed-websites-with-tables old 👀, but I've learnt a thing or two in my time in-front of a monitor. Proficient in both front- and back-end technologies, my focus is on writing APIs and practical tools and utilities. 
 
-Here are some ideas to get you started:
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=criticalsession&show_icons=true&locale=en&layout=compact&theme=dark" alt="criticalsession" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with C# and Vue primarily, but I've recently fallen in love with Go. 
+
+I love writing CLI tools and reading other people's code. Please, checkout the pinned repositories below and get in touch on [~~Twitter~~ X](https://twitter.com/criticalsession) if you wanna talk programming, projects, factory-building games, and/or board games. Or check out [my LinkedIn](https://linkedin.com/in/amantereale) if you're the type of person to, like, browse LinkedIn. 
+
+Thanks for reading! 👋 See ya in the pull requests.
+
+PS: I use Vim, btw.
+
+<p align="center"><img src="https://i.imgur.com/awFPO3v.png" /></p>
+
+PSS: I actually just use Vim Motions in VS Code lol
