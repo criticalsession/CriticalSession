@@ -25,4 +25,4 @@ PS: I use Vim, btw.
 
 <p align="center"><img src="https://i.imgur.com/awFPO3v.png" width="540" /></p>
 
-PSS: I actually just use the Vim motions extension in VS Code lol
+UPDATE: I don't actually use Vim anymore.
