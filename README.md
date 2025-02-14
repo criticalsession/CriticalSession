@@ -11,9 +11,8 @@ I love building CLI tools, exploring other people's code, and writing solid READ
 ### Project Highlights
 
 - [Magic Episode Sort (v2)](https://github.com/criticalsession/Magic-Episode-Sort-v2): A Windows app that organizes TV show episode files into a structured show/season format based on filename markers (e.g., S03E02). Highly customizable, pulls episode names from TVMaze for renaming, and built with C# WPF.
-- [game-deal](https://github.com/criticalsession/game-deal): A CLI tool (written in Go) that tracks game sales. Add games to your wishlist and find deals across multiple stores using the CheapShark API.
 - [4watchan](https://github.com/criticalsession/4watchan): A Python CLI tool for monitoring and auto-downloading new images and videos from 4chan threads. Perfect for keeping up with fast-moving threads.
 - [Thumbnailit](https://github.com/criticalsession/thumbnailit): A command-line tool that extracts thumbnails from a video file and arranges them in a grid. Quick and easy video preview generation.
-- [CodeConjure](https://github.com/criticalsession/CodeConjure) *(work in progress)*: A C# tool that simplifies class and SQL table generation with a templating system. Define templates in text files, and let CodeConjure do the rest.
+- [RandSort](https://github.com/criticalsession/CodeConjure): A blazingly slow sorting algorithm that embraces chaos. Instead of efficiency, it randomly swaps numbers around in an array until—by sheer luck—it stumbles upon a sorted list. Perfect for bringing even the most powerful CPUs to their knees.
 
 Thanks for reading! 👋 See ya in the pull requests.
