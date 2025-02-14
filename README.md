@@ -6,13 +6,14 @@ Yes, I'm "designed websites with tables" old 👀, but I've learnt a thing or tw
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=criticalsession&show_icons=true&locale=en&layout=compact&theme=dark" alt="criticalsession" /></p>
 
-I love writing CLI tools, reading other people's code, and writing READMEs. Check out the project highlights below and get in touch on [~~Twitter~~ X](https://twitter.com/criticalsession) if you wanna talk programming, projects, factory-building games, and/or board games. Or check out [my LinkedIn](https://linkedin.com/in/amantereale) if you're the type of person to browse LinkedIn for some reason.
+I love building CLI tools, exploring other people's code, and writing solid READMEs. If you're into programming, tiny side projects, factory-building games, or board games, hit me up on [~~Twitter~~ X](https://twitter.com/criticalsession). Or, if you're the kind of person who actually browses LinkedIn, well... [there's that too](https://linkedin.com/in/amantereale).
 
 ### Project Highlights
 
-- [Magic Episode Sort (v2)](https://github.com/criticalsession/Magic-Episode-Sort-v2) is a Windows application that lets you sort TV show episode files into a show/season directory structure using markers in the filename (e.g., S03E02). It's highly customizable, uses the TVMaze API to retrieve episode names (for renaming files) and is written in C# WPF. 
-- [game-deal](https://github.com/criticalsession/game-deal) is a CLI tool written in Go that helps you find sales for games. Add games to your wishlist and search for game deals across multiple stores using the CheapShark API.
-- [4watchan](https://github.com/criticalsession/4watchan) is another CLI tool written in Python. Use 4watchan to track and watch threads on 4chan, periodically and automatically downloading any new images and videos.
-- [CodeConjure](https://github.com/criticalsession/CodeConjure) is a **work in progress** and in early stages. Written in C#, CodeConjure lets you define C# classes using an easy to learn and use templating system. Write templates in text files and CodeConjure generates C# classes and SQL tables for you.
+- [Magic Episode Sort (v2)](https://github.com/criticalsession/Magic-Episode-Sort-v2): A Windows app that organizes TV show episode files into a structured show/season format based on filename markers (e.g., S03E02). Highly customizable, pulls episode names from TVMaze for renaming, and built with C# WPF.
+- [game-deal](https://github.com/criticalsession/game-deal): A CLI tool (written in Go) that tracks game sales. Add games to your wishlist and find deals across multiple stores using the CheapShark API.
+- [4watchan](https://github.com/criticalsession/4watchan): A Python CLI tool for monitoring and auto-downloading new images and videos from 4chan threads. Perfect for keeping up with fast-moving threads.
+- [Thumbnailit](https://github.com/criticalsession/thumbnailit): A command-line tool that extracts thumbnails from a video file and arranges them in a grid. Quick and easy video preview generation.
+- [CodeConjure](https://github.com/criticalsession/CodeConjure) *(work in progress): A C# tool that simplifies class and SQL table generation with a templating system. Define templates in text files, and let CodeConjure do the rest.
 
 Thanks for reading! 👋 See ya in the pull requests.
