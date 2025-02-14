@@ -14,6 +14,6 @@ I love building CLI tools, exploring other people's code, and writing solid READ
 - [game-deal](https://github.com/criticalsession/game-deal): A CLI tool (written in Go) that tracks game sales. Add games to your wishlist and find deals across multiple stores using the CheapShark API.
 - [4watchan](https://github.com/criticalsession/4watchan): A Python CLI tool for monitoring and auto-downloading new images and videos from 4chan threads. Perfect for keeping up with fast-moving threads.
 - [Thumbnailit](https://github.com/criticalsession/thumbnailit): A command-line tool that extracts thumbnails from a video file and arranges them in a grid. Quick and easy video preview generation.
-- [CodeConjure](https://github.com/criticalsession/CodeConjure) *(work in progress): A C# tool that simplifies class and SQL table generation with a templating system. Define templates in text files, and let CodeConjure do the rest.
+- [CodeConjure](https://github.com/criticalsession/CodeConjure) *(work in progress)*: A C# tool that simplifies class and SQL table generation with a templating system. Define templates in text files, and let CodeConjure do the rest.
 
 Thanks for reading! 👋 See ya in the pull requests.
