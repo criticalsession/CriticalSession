@@ -6,7 +6,7 @@ Yes, I'm "designed websites with tables" old 👀, but I've learnt a thing or tw
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=criticalsession&show_icons=true&locale=en&layout=compact&theme=dark" alt="criticalsession" /></p>
 
-I love building CLI tools, exploring other people's code, and writing solid READMEs. If you're into programming, tiny side projects, factory-building games, or board games, hit me up on [~~Twitter~~ X](https://twitter.com/criticalsession). Or, if you're the kind of person who actually browses LinkedIn, well... [there's that too](https://linkedin.com/in/amantereale).
+I love building CLI tools, exploring other people's code, and writing solid READMEs. If you're into programming, tiny side projects, factory-building games, or board games, hit me up on [Twitter](https://twitter.com/criticalsession). Or, if you're the kind of person who actually browses LinkedIn, [there's that, too](https://linkedin.com/in/amantereale).
 
 ### Project Highlights
 
